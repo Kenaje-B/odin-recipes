@@ -1,3 +1,16 @@
 body {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(242, 242, 224);
+    text-align: center;
+    background-color: #18181A;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    width: 560px;
+    height: auto;
     text-align: center;
 }
