@@ -1,15 +1,15 @@
-body {
+.main-body {
     font-family: 'Courier New', Courier, monospace;
     color: rgb(242, 242, 224);
     text-align: center;
     background-color: #18181A;
 }
 
-ul {
+.recipe-list {
     list-style-type: none;
 }
 
-img {
+.main-pic {
     width: 560px;
     height: auto;
     text-align: center;

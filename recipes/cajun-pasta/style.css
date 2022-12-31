@@ -1,14 +1,14 @@
-body {
+.cajun-body {
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(241,43,22,1)
 }
 
-h1, h2 {
+.cajun-heading, .cajun-heading-2 {
     text-align: center;
     
 }
 
-img {
+.cajun-pic {
     display: block;
     height: auto;
     width: 400px;
